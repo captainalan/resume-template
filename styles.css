@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#name_header {
+    margin-top: 2rem;
+    text-align: center;
+    /* horizontal rule drawn with border */
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding-bottom: 1rem;
+}
+
+h2.side_header {
+    font-size: 120%;
+    font-weight: bold;
+    color: #3d3d3d;
+}
+
+section.resume_section {
+    padding-bottom: 2rem;
+    /* horizontal rule drawn with border */
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: skyblue;
+    margin-bottom: 1rem;
+}
